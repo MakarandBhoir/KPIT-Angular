@@ -1,0 +1,14 @@
+{
+  "name": "01-npm-starter",
+  "version": "1.0.0",
+  "description": "This is my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Makarand Bhoir",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
